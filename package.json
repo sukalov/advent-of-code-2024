@@ -8,7 +8,8 @@
   "scripts": {
     "1": "bun run scripts/day1.ts",
     "2": "bun run scripts/day2.ts",
-    "3": "bun run scripts/day3.ts"
+    "3": "bun run scripts/day3.ts",
+    "4": "bun run scripts/day4.ts"
   },
   "peerDependencies": {
     "typescript": "^5.0.0"

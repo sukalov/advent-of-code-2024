@@ -1,15 +1,9 @@
-# day1
-
-To install dependencies:
+walking through advent of code 2024 in typescript
 
 ```bash
+#install dependencies
 bun install
+
+#then run
+bun run [daynumber]
 ```
-
-To run:
-
-```bash
-bun run index.ts
-```
-
-This project was created using `bun init` in bun v1.1.36. [Bun](https://bun.sh) is a fast all-in-one JavaScript runtime.
