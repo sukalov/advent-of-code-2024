@@ -1,0 +1,16 @@
+{
+  "name": "day1",
+  "module": "index.ts",
+  "type": "module",
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "scripts": {
+    "1": "bun run scripts/day1.ts",
+    "2": "bun run scripts/day2.ts",
+    "3": "bun run scripts/day3.ts"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
